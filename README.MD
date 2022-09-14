@@ -1,5 +1,7 @@
 ### Excerpted and modified from Python Machine Learning (Sebastian Raschka, 2019)
 
+## https://www.anaconda.com/products/distribution
+
 ##  Exercise 0: Installing Python packages
 
 ---
@@ -28,7 +30,7 @@ is Anaconda by Continuum Analytics. Anaconda comes with many pre-installed packa
 
 But most importantly, installing Anaconda allow you to manage your python environment by Conda, an environment management package for many languages. It is good to pick up if you are want to be serious about data science in the future.
 
-After successfully installing Anaconda, you can usually find the right command by googling "conda" + "PACKAGE NAME". For example, the command you install matplotlib in conda is
+After successfully installing Anaconda, you can usually find the right command by googling "conda" + "PACKAGE NAME". For example, the command to install matplotlib in conda is
 
     conda install -c conda-forge matplotlib
 
